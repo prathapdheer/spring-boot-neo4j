@@ -1,1 +1,1 @@
-# spring-boot-neo4j-example
+# spring-boot-neo4j
